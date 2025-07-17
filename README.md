@@ -86,15 +86,9 @@ View full source code and contribute here:
 
 ---
 
-## 🛡️ License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 👨‍💻 Author
 
 **Pranshu Rajan**  
 B.Tech, Electronics & Instrumentation Engineering  
 Nirma University  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/YOUR_USERNAME)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/pranshu-rajan-898556325/)
