@@ -5,7 +5,7 @@ This is a Mini C Compiler written in pure C, capable of performing lexical analy
 
 ---
 
-## 🔥 Features
+## Features
 
 - ✅ Tokenizer (Lexical Analyzer)
 - ✅ Recursive Descent Parser
@@ -32,33 +32,6 @@ if (x > y) {
 
 ---
 
-## 🛠️ How to Compile and Run
-
-### 1️⃣ Compile the Compiler:
-```bash
-gcc mini_compiler.c -o mini_compiler
-```
-
-### 2️⃣ Create a Source File:
-Make a file `program.txt` with code using the mini C syntax.
-
-### 3️⃣ Run the Compiler:
-```bash
-./mini_compiler program.txt
-```
-
----
-
-## 📂 Folder Structure
-
-```
-mini-c-compiler/
-├── mini_compiler.c       # Main C compiler code
-├── program.txt           # Sample input code
-├── README.md             # This file
-└── LICENSE               # Optional MIT License
-```
-
 ---
 
 ## 🧪 Sample Output
@@ -82,7 +55,7 @@ Output: 15
 ## 🔗 Project Link
 
 View full source code and contribute here:  
-👉 [https://github.com/pranshu-rajan/mini-c-compiler](https://github.com/pranshu-rajan/mini-c-compiler)
+👉 [https://github.com/pranshu2712/Mini-C-Compiler](https://github.com/pranshu2712/Mini-C-Compiler)
 
 ---
 
